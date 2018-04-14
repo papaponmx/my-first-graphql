@@ -3,17 +3,20 @@
     {
       "id": "23",
       "firstName": "Bill",
-      "age": 40
+      "age": 40,
+      "companyId": "1"
     },
     {
       "id": "24",
       "firstName": "Carlo",
-      "age": 41
+      "age": 41,
+      "companyId": "2"
     },
     {
       "id": "25",
       "firstName": "Loraine",
-      "age": 14
+      "age": 14,
+      "companyId": "2"
     },
     {
       "id": "26",
@@ -24,6 +27,18 @@
       "id": "27",
       "firstName": "Jaimes",
       "age": 20
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Search great shit"
     }
   ]
 }
