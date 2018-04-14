@@ -21,12 +21,14 @@
     {
       "id": "26",
       "firstName": "Peter",
-      "age": 32
+      "age": 32,
+      "companyId": "1"
     },
     {
       "id": "27",
       "firstName": "Jaimes",
-      "age": 20
+      "age": 20,
+      "companyId": "1"
     }
   ],
   "companies": [
