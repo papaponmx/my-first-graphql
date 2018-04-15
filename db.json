@@ -2,9 +2,14 @@
   "users": [
     {
       "id": "23",
-      "firstName": "Bill",
+      "firstName": "Andy",
       "age": 40,
-      "companyId": "1"
+      "companyId": "1",
+      "data": {
+        "firstName": "James",
+        "lastName": "Cameron"
+      },
+      "lastName": "Murray"
     },
     {
       "id": "24",
@@ -29,6 +34,12 @@
       "firstName": "Jaimes",
       "age": 20,
       "companyId": "1"
+    },
+    {
+      "firstName": "James",
+      "age": 23,
+      "companyId": "2",
+      "id": "rHfdTje"
     }
   ],
   "companies": [
